@@ -14,11 +14,11 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="images/setup2.jpg" alt="Setup" width="250px"/><br>
+        <img src="images/setup2.png" alt="Setup" width="250px"/><br>
         <b>App Setup & Configuration</b>
       </td>
       <td width="50%" align="center">
-        <img src="images/main2.jpg" alt="Dashboard" width="250px"/><br>
+        <img src="images/main2.png" alt="Dashboard" width="250px"/><br>
         <b>Financial Overview & Tracking</b>
       </td>
     </tr>
