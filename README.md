@@ -2,7 +2,7 @@
 
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev)
 [![Gemini AI](https://img.shields.io/badge/Gemini%20AI-8E75B2.svg?style=for-the-badge&logo=google-gemini&logoColor=white)](https://deepmind.google/technologies/gemini/)
-[![Security](https://img.shields.io/badge/Security-Audit--Passed-success.svg?style=for-the-badge&logo=cloudera&logoColor=white)](#-cybersecurity-analysis)
+[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android&logoColor=white)](BURAYA_APK_LINKINI_YAPISTIR)
 
 **Sugar Finance** is an "Algorithmic Accounting" and profit analysis engine designed to solve financial complexity for sole proprietorships and small businesses. Powered by **Google Gemini AI**.
 
@@ -14,12 +14,12 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="main_screen.jpg" alt="Dashboard" width="250px"/><br>
-        <b>Financial Overview & Tracking</b>
+        <img src="images/setup.jpg" alt="Setup" width="250px"/><br>
+        <b>App Setup & Configuration</b>
       </td>
       <td width="50%" align="center">
-        <img src="analysis.jpg" alt="AI Analysis" width="250px"/><br>
-        <b>Gemini AI Strategic Insights</b>
+        <img src="images/main.jpg" alt="Dashboard" width="250px"/><br>
+        <b>Financial Overview & Tracking</b>
       </td>
     </tr>
   </table>
@@ -45,8 +45,8 @@ The system is built with a "Security-by-Design" approach, focusing on the follow
 
 * **Data-at-Rest Protection:** Identified risks regarding plain-text storage in `shared_preferences`. Future roadmap includes **AES-256 encryption** for sensitive financial records.
 * **Physical Access Security:** Proposed integration of `local_auth` (Biometric FaceID/Fingerprint) to protect commercial secrets from unauthorized physical access.
-* **Reverse Engineering Defense:** Deployment of **Code Obfuscation** techniques during the build process to protect the proprietary logic in `gemini_service.dart`.
-* **Input Sanitization:** Implementation of strict **Schema Validation** for JSON data imports to prevent logic-based attacks or crashes.
+* **Reverse Engineering Defense:** Deployment of **Code Obfuscation** techniques during the build process to protect the proprietary logic.
+* **Input Sanitization:** Implementation of strict **Schema Validation** for JSON data imports to prevent logic-based attacks.
 
 ## 📊 Key Features
 - **Dynamic Tax Engine:** Instant calculation of VAT, withholding tax, and social security (Bağkur) fees.
@@ -56,7 +56,7 @@ The system is built with a "Security-by-Design" approach, focusing on the follow
 ---
 
 ### 👨‍💻 Developer
-**Kemal** *Software Development Student & Cybersecurity Aspirant*
+**Recep** *Software Development & Cybersecurity Student*
 
 ---
 *Developed to empower the digital financial transformation of small enterprises.*
